@@ -1,0 +1,86 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+    
+}
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-size:56px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.nav-site-logo {
+    color:#4D5AE5;
+    margin-top:24px;
+    margin-left:56px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    line-height: 21px;
+    text-decoration: none;
+}
+
+.nav-site-logo_studio {
+    color:#2E2F42;
+}
+
+.nav-pages-listItem {
+ font-weight: 500;
+ font-size: 16px;
+ line-height: 24px;
+}
+
+.nav-address {
+    font-weight: 400;
+    font-size:16px;
+    line-height: 24px;
+}
+
+
+.section-hero {
+    background-color: #2E2F42;
+    color:#FFFFFF;
+    height: 600px;
+    width: 1440px;
+}
+
+.order-service-button{
+    background-color: #4D5AE5;
+    width:169px;
+    height: 56px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+}
+
+
+
+
+.page-footer {
+    background-color: #2E2F42;
+    color:#F4F4FD;
+    width: 1440px;
+    height: 312px;
+}
+
+.footer-site-logo {
+    color:#4D5AE5;
+    margin-top:24px;
+    margin-left:56px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    line-height: 21px;
+    text-decoration: none;
+}
+
+.footer-site-logo_studio {
+    color:#F4F4FD;
+}
