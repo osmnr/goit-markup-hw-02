@@ -87,6 +87,9 @@ body {
   background-color: #404BBF;
 }
 
+
+
+
 .features-section {
   width: 1128px;
   height: 104;
@@ -100,7 +103,9 @@ body {
 .feature-titles {
   color: #2e2f42;
   font-weight: 500;
-  line-height: 24px;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .feature-texts{
@@ -151,7 +156,11 @@ body {
   font-weight: 700;
   color: #2e2f42;
   font-size: 36px;
-  line-height: 40px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .porfolio-solutions {
@@ -159,6 +168,7 @@ body {
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
+  letter-spacing: 0.02em;
 }
 
 .porfolio-solution-genres {
@@ -166,6 +176,8 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
+  letter-spacing: 0.02em;
+  
 }
 
 .page-footer {
