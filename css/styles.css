@@ -16,7 +16,7 @@ body {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   line-height: 1.17;
-  font-size:18px;
+  font-size: 18px;
   text-decoration: none;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -26,24 +26,24 @@ body {
   color: #2e2f42;
 }
 
-.navigation-pages-listItem {
+.navigation-list-items {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
   list-style-type: none;
 }
 
-.navigation-listItem-links {
+.navigation-item-links {
   text-decoration: none;
   color: #2e2f42;
   letter-spacing: 0.02em;
 }
 
-navigation-listItem-links:hover{
+.navigation-item-links:hover {
   color: #404bbf;
 }
 
-navigation-listItem-links:focus{
+.navigation-item-links:focus {
   color: #404bbf;
 }
 
@@ -51,7 +51,6 @@ navigation-listItem-links:focus{
   font-size: 16px;
   line-height: 24px;
   font-style: normal;
-
 }
 
 .nav-address-listItems {
@@ -65,30 +64,22 @@ navigation-listItem-links:focus{
   color: #434455;
 }
 
-.nav-address-a:hover{
+.nav-address-a:hover {
   color: #404bbf;
 }
 
-.nav-address-a:focus{
+.nav-address-a:focus {
   color: #404bbf;
 }
-
-
-
-
 
 .hero-section {
   background-color: #2e2f42;
   color: #ffffff;
-  height: 600px;
-  width: 1440px;
 }
 
 .order-service-button {
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
-  width: 169px;
-  height: 56px;
   color: #ffffff;
   font-weight: 500;
   font-size: 16px;
@@ -97,26 +88,17 @@ navigation-listItem-links:focus{
   cursor: pointer;
 }
 
-.order-service-button:focus{
-  background-color: #404BBF;
+.order-service-button:focus {
+  background-color: #404bbf;
 }
 
-.order-service-button:hover{
-  background-color: #404BBF;
+.order-service-button:hover {
+  background-color: #404bbf;
 }
 
-
-
-
-.features-section {
-  width: 1128px;
-  height: 104;
-}
-
-.feature-listItems{
+.feature-listItems {
   list-style-type: none;
 }
-
 
 .feature-titles {
   color: #2e2f42;
@@ -126,22 +108,19 @@ navigation-listItem-links:focus{
   letter-spacing: 0.02em;
 }
 
-.feature-texts{
+.feature-texts {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-
-
-.ourteam-listItems{
+.ourteam-listItems {
   list-style-type: none;
-  background-color: #FFFFFF;
-
+  background-color: #ffffff;
 }
 
-.porfolio-listItems{
+.porfolio-listItems {
   list-style-type: none;
 }
 
@@ -203,14 +182,11 @@ navigation-listItem-links:focus{
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
-
 }
 
 .page-footer {
   background-color: #2e2f42;
   color: #f4f4fd;
-  width: 1440px;
-  height: 312px;
 }
 
 .footer-site-logo {
@@ -228,8 +204,7 @@ navigation-listItem-links:focus{
   color: #f4f4fd;
 }
 
-
-.footer-text{
+.footer-text {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
