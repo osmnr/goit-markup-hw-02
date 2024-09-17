@@ -6,14 +6,21 @@ body {
 
 .page-header {
   font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
 }
 
 .navigation-site-logo {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.17;
+  font-size:18px;
   text-decoration: none;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
 }
 
 .navigation-site-logo_studio {
@@ -29,19 +36,28 @@ body {
 
 .navigation-listItem-links {
   text-decoration: none;
+  color: #2e2f42;
 }
 
 .navigation-addresses {
   font-size: 16px;
   line-height: 24px;
+  font-style: normal;
+  
+}
+
+.nav-address-listItems {
+  list-style-type: none;
 }
 
 .nav-address-mail {
   text-decoration: none;
+  color: #434455;
 }
 
 .nav-address-phone {
   text-decoration: none;
+  color: #434455;
 }
 
 .hero-section {
@@ -53,14 +69,23 @@ body {
 
 .order-service-button {
   background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
   width: 169px;
   height: 56px;
   color: #ffffff;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 4%;
+  letter-spacing: 0.04em;
   cursor: pointer;
+}
+
+.order-service-button:focus{
+  background-color: #404BBF;
+}
+
+.order-service-button:hover{
+  background-color: #404BBF;
 }
 
 .features-section {
@@ -133,10 +158,19 @@ body {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.17;
   text-decoration: none;
+  font-size: 18px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 .footer-site-logo_studio {
   color: #f4f4fd;
+}
+
+
+.footer-text{
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
