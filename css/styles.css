@@ -37,7 +37,6 @@ body {
   text-decoration: none;
   color: #2e2f42;
   letter-spacing: 0.02em;
-
 }
 
 navigation-listItem-links:hover{
@@ -61,32 +60,22 @@ navigation-listItem-links:focus{
   letter-spacing: 0.02em;
 }
 
-.nav-address-mail:hover{
-  color: #404bbf;
-}
-
-.nav-address-mail:focus{
-  color: #404bbf;
-}
-
-.nav-address-phone:hover{
-  color: #404bbf;
-}
-
-.nav-address-phone:focus{
-  color: #404bbf;
-}
-
-
-.nav-address-mail {
+.nav-address-a {
   text-decoration: none;
   color: #434455;
 }
 
-.nav-address-phone {
-  text-decoration: none;
-  color: #434455;
+.nav-address-a:hover{
+  color: #404bbf;
 }
+
+.nav-address-a:focus{
+  color: #404bbf;
+}
+
+
+
+
 
 .hero-section {
   background-color: #2e2f42;
