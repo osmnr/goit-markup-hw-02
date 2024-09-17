@@ -20,7 +20,6 @@ body {
   text-decoration: none;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-
 }
 
 .navigation-site-logo_studio {
@@ -93,15 +92,25 @@ body {
   height: 104;
 }
 
+.feature-listItems{
+  list-style-type: none;
+}
+
+
 .feature-titles {
   color: #2e2f42;
   font-weight: 500;
   line-height: 24px;
 }
 
-.feature-listItems{
-  list-style-type: none;
+.feature-texts{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
+
+
 
 .ourteam-listItems{
   list-style-type: none;
