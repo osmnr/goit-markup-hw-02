@@ -99,6 +99,18 @@ body {
   line-height: 24px;
 }
 
+.feature-listItems{
+  list-style-type: none;
+}
+
+.ourteam-listItems{
+  list-style-type: none;
+}
+
+.porfolio-listItems{
+  list-style-type: none;
+}
+
 .our-team-section {
   background-color: #f4f4fd;
 }
